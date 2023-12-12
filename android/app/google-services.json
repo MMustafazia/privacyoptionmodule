@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275119314549",
+    "project_id": "privacygallery-1f729",
+    "storage_bucket": "privacygallery-1f729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275119314549:android:acc4367b3c679c17568a3c",
+        "android_client_info": {
+          "package_name": "com.example.privacyoption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ4eAWasZGZ36gKt24k8hSctc1kCBggbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
